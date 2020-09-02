@@ -1,6 +1,6 @@
 ### Hi there 👋 name's Patrick, nice to meet ya. 
 
-#### 🔭  I'm currently working as a Front End Engineer, with React (with Hooks!), Redux, TypeScript, JavaScript(ES6+), Webpack, Protobufs (Protocol Buffers), and Firebase. I also am in charge of my current role's CI/CD pipelines, with React Testing Library, Cypress, and GitHub Actions.
+#### 🔭  I'm currently working as a Senior Front End Engineer, with React (with Hooks!), Redux, TypeScript, JavaScript(ES6+), Webpack, Protobufs (Protocol Buffers), and Firebase. I also am in charge of my current role's CI/CD pipelines, with React Testing Library, Cypress, and GitHub Actions.
 
 #### 🌱 I’m currently learning Go, Docker, and various tools related to GCP. I'm highly interested in becoming more "fullstack". 
 
