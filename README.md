@@ -2,7 +2,7 @@
 
 #### 🔭  I'm currently working as a Senior Software Engineer, with React (with Hooks!), Redux, TypeScript, JavaScript(ES6+), Webpack, Protobufs (Protocol Buffers), and Firebase. I also am in charge of my current role's CI/CD pipelines, with React Testing Library, Cypress, and GitHub Actions.
 
-#### 🌱 I’m currently working on becoming better at Go, Docker, and various tools related to GCP. I'm highly interested in becoming more "fullstack". 
+#### 🌱 I’m currently working on becoming better at Go, Docker, and various tools related to GCP.
 
 #### 📫 Feel free to reach out to me! My email is patrickkim93@gmail.com.
 
